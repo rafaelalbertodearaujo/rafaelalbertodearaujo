@@ -24,9 +24,14 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelalbertodearaujo&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbertodearaujo&layout=compact&theme=tokyonight" height="165"/>
+  <a href="https://github.com/rafaelalbertodearaujo">
+    <img alt="Rafael Alberto de Araujo's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=rafaelalbertodearaujo&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0:00c6ff,100:0072ff&title_color=ffffff&icon_color=00c6ff" height="192px"/>
+  </a>
+  <a href="https://github.com/rafaelalbertodearaujo">
+    <img alt="Rafael Alberto de Araujo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbertodearaujo&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0:00c6ff,100:0072ff&title_color=ffffff&icon_color=00c6ff" height="192px"/>
+  </a>
 </p>
+
 
 ---
 
