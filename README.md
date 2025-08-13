@@ -5,17 +5,18 @@
 
 ## 👋 Sobre mim
 Sou Rafael, **Analista de Suporte** e **estudante de Engenharia da Computação**, apaixonado por tecnologia e aprendizado contínuo.  
-Já explorei diversas linguagens para entender com qual me adapto melhor e atualmente estudo **C**, com planos de avançar para **C++** nos próximos anos.  
-Tenho experiência prévia com **Python**, **Java (Android Studio)** e dois anos de atuação em **Design Gráfico**.  
+Já explorei diversas linguagens para entender com qual me adapto melhor e atualmente estudo **C**, com planos de avançar para **C++** nos próximos anos.
 Ultimamente, tenho me interessado por **Processamento Digital de Imagens** e áreas relacionadas, buscando aplicar esse conhecimento em projetos práticos.
+Utilizei préviamente **Python**, **Java (Mobile)**, **Javascript** entre outras linguagens e ferramentas em meus projetos pessoais.  
 
 ---
 
 ## 🚀 Atualmente
 - 💼 Trabalho como Analista de Suporte  
 - 🎓 Curso Engenharia da Computação  
-- 📚 Estudando C e fundamentos avançados de algoritmos  
-- 🖼️ Explorando Processamento Digital de Imagens  
+- 📚 Estudando C e fundamentos avançados de algoritmos
+- 💻 Aprendendo arquitetura e estrutura de computadores
+- 🖼️ Explorando Processamento Digital de Imagens 
 
 ---
 
