@@ -22,8 +22,6 @@
 
 ---
 
-
-
 <!-- ## 📊 Estatísticas
  <p align="center">
   <img height="165" alt="Rafael Github's Stats" src="https://github-readme-stats-rosy-seven-61.vercel.app/api?username=rafaelalbertodearaujo&show_icons=true&theme=github_dark"/>
@@ -31,9 +29,7 @@
 </p> -->
 
 
----
-
-## 📫 Contato
+## Conecte-se comigo:
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/rafaelalbertodearaujo" target="_blank" rel="noreferrer">
