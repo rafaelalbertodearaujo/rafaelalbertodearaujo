@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Rafael%20Alberto%20de%20Araujo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Rafael%20Alberto%20de%20Araujo&descAlign=100&descAlignY=31&animation=fadeIn"/>
 </p>
 
 ## 👋 Sobre mim
