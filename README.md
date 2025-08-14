@@ -1,4 +1,4 @@
-<img width="1664" height="48" alt="image" src="https://github.com/user-attachments/assets/b8a4bf5f-aacf-4607-9776-7ad30b7c5b4b" /><!-- Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200&section=header&text=Rafael%20Alberto%20de%20Araujo&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
