@@ -40,17 +40,14 @@
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/rafaelalbertodearaujo" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="50"/>
-    rafaelalbertodearaujo
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/araujo.elm" target="_blank" rel="noreferrer">
     <img height="50" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
-    @araujo.elm
   </a>
   <!-- Email -->
   <a href="mailto:rafaelalbertola02@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
-    rafaelalbertola02@gmail.com
   </a>
 </p>
 
