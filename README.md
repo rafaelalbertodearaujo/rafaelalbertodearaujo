@@ -24,7 +24,7 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="165" alt="Rafael Github's Stats" src="https://github-readme-stats-rosy-seven-61.vercel.app/api?username=rafaelalbertodearaujo&show_icons=true&theme=dark"/>
+  <img height="165" alt="Rafael Github's Stats" src="https://github-readme-stats-rosy-seven-61.vercel.app/api?username=rafaelalbertodearaujo&show_icons=true&theme=github_dark"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbertodearaujo&theme=tokyonight" />
 </p>
 
