@@ -39,15 +39,18 @@
 <p align="center">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/rafaelalbertodearaujo" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="50"/>
+    rafaelalbertodearaujo
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/araujo.elm" target="_blank" rel="noreferrer">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/Instagram/[DARK_MODE_COLOR]" />
+    <img height="50" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
+    @araujo.elm
   </a>
   <!-- Email -->
   <a href="mailto:rafaelalbertola02@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
+    rafaelalbertola02@gmail.com
   </a>
 </p>
 
