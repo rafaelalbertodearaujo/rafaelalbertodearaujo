@@ -24,7 +24,7 @@
 
 ## 📊 Estatísticas
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rafaelalbertodearaujo&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-stats-rafaels-projects-0c05e22e.vercel.app/api?username=rafaelalbertodearaujo&show_icons=true&theme=tokyonight" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelalbertodearaujo&layout=compact&theme=tokyonight" />
 </p>
 
