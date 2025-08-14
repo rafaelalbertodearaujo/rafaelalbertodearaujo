@@ -38,15 +38,15 @@
 ## Conecte-se comigo:
 <p align="left">
   <!-- LinkedIn -->
-  <a href="https://linkedin.com/in/rafaelalbertodearaujo" target="_blank" rel="noreferrer">
+  <a href="https://linkedin.com/in/rafaelalbertodearaujo" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="50"/>
   </a>
   <!-- Instagram -->
-  <a href="https://instagram.com/araujo.elm" target="_blank" rel="noreferrer">
+  <a href="https://instagram.com/araujo.elm" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
   </a>
   <!-- Email -->
-  <a href="mailto:rafaelalbertola02@gmail.com" target="_blank" rel="noreferrer">
+  <a href="mailto:rafaelalbertola02@gmail.com" target="_blank" rel="noreferrer" style="text-decoration: none;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="50" height="50"/>
   </a>
 </p>
