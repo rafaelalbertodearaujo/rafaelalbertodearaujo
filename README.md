@@ -43,7 +43,7 @@
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/araujo.elm" target="_blank" rel="noreferrer">
-    <img height="50" src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" />
+    <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Instagram_logo_2022.svg" />
   </a>
   <!-- Email -->
   <a href="mailto:rafaelalbertola02@gmail.com" target="_blank" rel="noreferrer">
