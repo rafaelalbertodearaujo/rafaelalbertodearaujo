@@ -13,17 +13,17 @@
 ## 🚀 Linguagens e Ferramentas:
 <p align="center">
   <!-- Frontend -->
-  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50" height="50" />
   
   <!-- Backend & Languages -->
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="50" height="50" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50" />
   
   <!-- Database -->
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50" />
 </p>
 
 ---
