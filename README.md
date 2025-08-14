@@ -18,12 +18,12 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50" height="50" />
   
   <!-- Backend & Languages -->
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="50" height="50" />
+  <img src="https://assets.zabbix.com/img/brands/python.svg" alt="Python" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="50" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="C" width="50" height="50" />
   
   <!-- Database -->
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="MySQL" height="50" />
 </p>
 
 ---
