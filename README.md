@@ -10,14 +10,20 @@
 
 ---
 
-## 🛠️ Linguagens e Ferramentas
+## 🚀 Linguagens e Ferramentas:
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <!-- Frontend -->
+  <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50" height="50" />
+  
+  <!-- Backend & Languages -->
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/java/007396" alt="Java" width="50" height="50" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" alt="C" width="50" height="50" />
+  
+  <!-- Database -->
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" alt="MySQL" width="50" height="50" />
 </p>
 
 ---
