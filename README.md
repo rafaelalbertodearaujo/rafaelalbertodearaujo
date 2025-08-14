@@ -11,7 +11,7 @@
 ---
 
 ## 🚀 Linguagens e Ferramentas:
-<p align="center">
+<p align="left">
   <!-- Frontend -->
   <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="50" height="50" />
   <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3" width="50" height="50" />
@@ -36,7 +36,7 @@
 
 
 ## Conecte-se comigo:
-<p align="center">
+<p align="left">
   <!-- LinkedIn -->
   <a href="https://linkedin.com/in/rafaelalbertodearaujo" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="LinkedIn" height="50"/>
