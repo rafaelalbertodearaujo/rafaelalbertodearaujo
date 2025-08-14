@@ -37,7 +37,7 @@
   </a>
   <!-- Instagram -->
   <a href="https://instagram.com/araujo.elm" target="_blank" rel="noreferrer">
-    <img src="https://simpleicons.org/icons/instagram.svg" alt="Instagram" width="50" height="50"/>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/Instagram/[DARK_MODE_COLOR]" />
   </a>
   <!-- Email -->
   <a href="mailto:rafaelalbertola02@gmail.com" target="_blank" rel="noreferrer">
