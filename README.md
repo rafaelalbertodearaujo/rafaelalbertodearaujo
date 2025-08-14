@@ -14,7 +14,7 @@
 <p align="center">
   <!-- Frontend -->
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML5" width="50" height="50" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" alt="CSS3" width="50" height="50" />
+  <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="CSS3" width="50" height="50" />
   <img src="https://cdn.simpleicons.org/react/61DAFB" alt="React" width="50" height="50" />
   
   <!-- Backend & Languages -->
