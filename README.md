@@ -17,7 +17,7 @@ Atualmente, construo arquiteturas de **Web Design Premium e AI-Augmented Develop
 
 ## ⚙️ A Máquina por Trás dos Meus Projetos
 Recentemente criei o meu próprio "Motor de Agência" com IA:
-🔗 **[Antigravity Web Engine](https://github.com/rafaelalbertodearaujo/antigravity-web-engine)** *(Adicione o link do repo aqui quando criar!)*
+🔗 **[Antigravity Web Engine](https://github.com/rafaelalbertodearaujo/antigravity-web-engine)**
 Um ecossistema local de regras rigorosas que força a Inteligência Artificial a atuar como Engenheira Sênior: garantindo contrastes acessíveis, responsividade extrema (Touch > 44px) e código limpo sem vícios de IA.
 
 ---
