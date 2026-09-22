@@ -8,7 +8,7 @@ Estudo Engenharia da Computação na UNOESC Joaçaba e trabalho como analista de
 
 ### Sites
 
-| | | |
+| Site | Status | Negócio |
 |---|---|---|
 | **[Space Protein](https://www.spaceprotein.com.br/)** | no ar | Alimentação saudável · Balneário Camboriú/SC |
 | **[Decora Tintas](https://decora-tintas.vercel.app/)** | conceito | Loja de tintas · Capinzal e Zortéa/SC |
