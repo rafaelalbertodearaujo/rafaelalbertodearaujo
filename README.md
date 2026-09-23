@@ -53,7 +53,6 @@ Uma lona com a sua marca se desenrola na primeira tela, e as peças da gráfica 
 - Desenhados primeiro para a tela do celular
 - Política de segurança de conteúdo (CSP) e cabeçalhos de segurança
 - Verificação automática de qualidade antes de publicar
-- Publicados na Vercel a partir do GitHub
 
 ### Ferramentas
 
