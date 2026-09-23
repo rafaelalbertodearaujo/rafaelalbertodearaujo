@@ -2,18 +2,50 @@
 
 Designer e desenvolvedor web em Capinzal/SC. Desenho e programo sites para negócios de Capinzal e região, com o olhar de quem passou dois anos numa gráfica.
 
-Estudo Engenharia da Computação na UNOESC Joaçaba e trabalho como analista de suporte na Wolff Software, com SQL e Firebird no dia a dia.
+<p>
+  <a href="https://rafael-araujo.vercel.app/"><img src="https://img.shields.io/badge/Ver_o_portf%C3%B3lio-c2410c?style=for-the-badge" alt="Ver o portfólio" /></a>
+  <a href="https://api.whatsapp.com/send?phone=5549999473789"><img src="https://img.shields.io/badge/WhatsApp-1b1714?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://www.instagram.com/araujo.rfa/"><img src="https://img.shields.io/badge/@araujo.rfa-1b1714?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @araujo.rfa" /></a>
+  <a href="https://www.linkedin.com/in/rafaelalbertodearaujo/"><img src="https://img.shields.io/badge/LinkedIn-1b1714?style=for-the-badge" alt="LinkedIn" /></a>
+</p>
 
-**[Ver o portfólio →](https://quick-deploy-iota.vercel.app/)**
+Estudo Engenharia da Computação na UNOESC Joaçaba e trabalho como analista de suporte na Wolff Software, com SQL e Firebird no dia a dia.
 
 ### Sites
 
-| Site | Status | Negócio |
-|---|---|---|
-| **[Space Protein](https://www.spaceprotein.com.br/)** | no ar | Alimentação saudável · Balneário Camboriú/SC |
-| **[Decora Tintas](https://decora-tintas.vercel.app/)** | conceito | Loja de tintas · Capinzal e Zortéa/SC |
-| **[Ourograf](https://ourograf.vercel.app/)** | conceito | Gráfica e comunicação visual · Capinzal/SC |
-| **[Cozinha da Sil](https://cozinha-sil.vercel.app/)** | conceito | Cafeteria e choperia · Capinzal/SC |
+Um no ar, com cliente de verdade, e três exemplos que desenhei e programei para mostrar como fica o site de cada ramo, com empresas inventadas. Os repositórios são privados; toque na imagem para abrir o site.
+
+<br />
+
+**[Space Protein](https://www.spaceprotein.com.br/)** · alimentação saudável · Balneário Camboriú/SC · `no ar`
+
+Site para quem quer empreender com a marca: mostra o investimento, o que vem incluso e leva direto para a conversa.
+
+<a href="https://www.spaceprotein.com.br/"><img src="img/space.webp" alt="Três telas de celular do site da Space Protein: a abertura, o cardápio de produtos e os modelos de venda" /></a>
+
+<br />
+
+**[Pé-Direito Tintas](https://projetos-portfolio-araujo.vercel.app/tintas/)** · loja de tintas · `exemplo`
+
+O site é o próprio logo: um rolo desce pintando listras, e cada listra é uma parte da loja.
+
+<a href="https://projetos-portfolio-araujo.vercel.app/tintas/"><img src="img/tintas.webp" alt="Três telas de celular do site da Pé-Direito Tintas: a abertura com o rolo de tinta, as listras de cada parte da loja e o agendamento de visita" /></a>
+
+<br />
+
+**[Açucareiro](https://projetos-portfolio-araujo.vercel.app/cafeteria/)** · cafeteria · `exemplo`
+
+A casa se apresenta e logo vem a vitrine: cada doce com a etiqueta de preço escrita à mão, e um toque põe o item na comanda.
+
+<a href="https://projetos-portfolio-araujo.vercel.app/cafeteria/"><img src="img/cafeteria.webp" alt="Três telas de celular do site do Açucareiro: a abertura, a vitrine de doces com preços e o rodízio de pizza de sábado" /></a>
+
+<br />
+
+**[Sinaleiro](https://projetos-portfolio-araujo.vercel.app/grafica/)** · gráfica e comunicação visual · `exemplo`
+
+Uma lona com a sua marca se desenrola na primeira tela, e as peças da gráfica aparecem numa vitrine que se rola com o dedo.
+
+<a href="https://projetos-portfolio-araujo.vercel.app/grafica/"><img src="img/grafica.webp" alt="Três telas de celular do site do Sinaleiro: a abertura com a lona, a vitrine de peças e a lista de serviços" /></a>
 
 ### Como os meus sites são feitos
 
