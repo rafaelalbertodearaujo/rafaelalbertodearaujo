@@ -3,9 +3,9 @@
 Designer e desenvolvedor web em Capinzal/SC. Desenho e programo sites para negócios de Capinzal e região, com o olhar de quem passou dois anos numa gráfica.
 
 <p>
-  <a href="https://rafael-araujo.vercel.app/"><img src="https://img.shields.io/badge/Ver_o_portf%C3%B3lio-c2410c?style=for-the-badge" alt="Ver o portfólio" /></a>
+  <a href="https://rafaelalbertodearaujo.com.br/"><img src="https://img.shields.io/badge/Ver_o_portf%C3%B3lio-c2410c?style=for-the-badge" alt="Ver o portfólio" /></a>
   <a href="https://api.whatsapp.com/send?phone=5549999473789"><img src="https://img.shields.io/badge/WhatsApp-1b1714?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-  <a href="https://www.instagram.com/araujo.rfa/"><img src="https://img.shields.io/badge/@araujo.rfa-1b1714?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @araujo.rfa" /></a>
+  <a href="https://www.instagram.com/rafaelalbertodearaujo/"><img src="https://img.shields.io/badge/@rafaelalbertodearaujo-1b1714?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @rafaelalbertodearaujo" /></a>
   <a href="https://www.linkedin.com/in/rafaelalbertodearaujo/"><img src="https://img.shields.io/badge/LinkedIn-1b1714?style=for-the-badge" alt="LinkedIn" /></a>
 </p>
 
@@ -71,4 +71,4 @@ Uma lona com a sua marca se desenrola na primeira tela, e as peças da gráfica 
 
 ### Contato
 
-[WhatsApp](https://api.whatsapp.com/send?phone=5549999473789) · [Instagram @araujo.rfa](https://www.instagram.com/araujo.rfa/) · [LinkedIn](https://www.linkedin.com/in/rafaelalbertodearaujo/) · rafaelalbertola02@gmail.com
+[WhatsApp](https://api.whatsapp.com/send?phone=5549999473789) · [Instagram @rafaelalbertodearaujo](https://www.instagram.com/rafaelalbertodearaujo/) · [LinkedIn](https://www.linkedin.com/in/rafaelalbertodearaujo/) · rafaelalbertola02@gmail.com
